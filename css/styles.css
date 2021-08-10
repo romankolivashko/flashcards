@@ -4,7 +4,7 @@
 
 .card-hidden {
   display: contents;
-}
+} 
 
 .clickable {
   cursor: pointer;
@@ -14,3 +14,8 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+.btn {
+  margin: 7px;
+}
+
