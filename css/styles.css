@@ -1,0 +1,16 @@
+.card-showing {
+  display: none;
+}
+
+.card-hidden {
+  display: contents;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
