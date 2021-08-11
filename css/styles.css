@@ -2,17 +2,11 @@
   display: none;
 }
 
-.card-hidden {
-  display: none;
-}
-
 .row {
   background-color: bg-secondary;
   color: text-white;
 }
-.card-hidden {
-  display: none;
-} 
+
 /* 
 .clickable {
   cursor: pointer;
