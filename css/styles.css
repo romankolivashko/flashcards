@@ -3,7 +3,15 @@
 }
 
 .card-hidden {
-  display: contents;
+  display: none;
+}
+
+.row {
+  background-color: bg-secondary;
+  color: text-white;
+}
+.card-hidden {
+  display: none;
 } 
 /* 
 .clickable {
